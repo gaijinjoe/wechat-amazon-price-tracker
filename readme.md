@@ -1,6 +1,7 @@
-// TODO: fix the yourContact ID to some random one. change the token to secret and hide the firestore information
+# Wechat bot tracking Amazon prices.
 
-### Wechat bot tracking Amazon prices.
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-blue.svg)](https://github.com/chatie/wechaty)
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 
 The primary purpose of this bot is to track specific products on the Chinese Amazon store and report price changes to the owner account (can be adapted to groups or multiple contacts).
 
@@ -22,7 +23,7 @@ The bot can eventually be adapted to **Taobao** if there is request for it.
 
 ---
 
-## Experience using Wechaty
+### Experience using Wechaty
 
 This project was built using Wechaty and Puppeteer.
 Wechaty has been straight forward to use and is very well documented. All of the code used in this open source project can be easily adapted for other purposes by looking at the Wechaty [documentation](https://github.com/wechaty/wechaty/blob/master/docs/index.md).
